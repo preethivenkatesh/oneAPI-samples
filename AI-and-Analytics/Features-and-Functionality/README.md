@@ -23,6 +23,7 @@ Third party program Licenses can be found here: [third-party-programs.txt](https
 | TensorFlow & Model Zoo | [IntelTensorFlow_ModelZoo_Inference_with_FP32_Int8](IntelTensorFlow_ModelZoo_Inference_with_FP32_Int8)               | Run ResNet50 inference on Intel's pretrained FP32 and Int8 model.
 | TensorFlow & Model Zoo | [IntelTensorFlow_PerformanceAnalysis](IntelTensorFlow_PerformanceAnalysis) | Analyze the performance difference between Stock Tensorflow and Intel Tensorflow.
 | TensorFlow | [IntelTensorFlow_Horovod_Multinode_Training](IntelTensorFlow_Horovod_Multinode_Training)   | Get started with scaling out a neural network's training in TensorFlow by using Horovod.
+| TensorFlow | [IntelTensorFlow_Inference Optimization for a pre-trained model](IntelTensorFlow_InferenceOptimization)   | optimize a pre-trained model for a better inference performance, and also analyze the model pb files before and after the inference optimizations.
 
 # Using Samples in Intel oneAPI DevCloud
 
